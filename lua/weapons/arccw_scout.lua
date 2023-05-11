@@ -160,21 +160,6 @@ SWEP.Attachments = {
         },
     },
     {
-        PrintName = "Underbarrel",
-        Slot = {"foregrip", "ubgl", "bipod"},
-        Bone = "v_weapon.scout_Parent",
-        Offset = {
-            vang = Angle(-90, 0, -90),
-            wpos = Vector(14.329, 0.602, -4.453),
-        },
-        SlideAmount = {
-            vmin = Vector(0, -1.75, -10),
-            vmax = Vector(0, -1.75, -15),
-            wmin = Vector(20.26, 0.699, -5.401),
-            wmax = Vector(20.26, 0.699, -5.401),
-        }
-    },
-    {
         PrintName = "Tactical",
         Slot = "tac",
         Bone = "v_weapon.scout_Parent",

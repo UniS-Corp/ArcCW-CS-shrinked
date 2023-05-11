@@ -179,18 +179,6 @@ SWEP.Attachments = {
         },
     },
     {
-        PrintName = "Underbarrel",
-        Slot = {"foregrip", "ubgl", "bipod"},
-        Bone = "v_weapon.aug_Parent",
-        Offset = {
-            vpos = Vector(0, -2.5, -5.5),
-            vang = Angle(180 + 86.087, 0, -180 + 100.628),
-            wpos = Vector(14, 0.602, -4.8),
-            wang = Angle(-10.216, 0, 180)
-        },
-        InstalledEles = {"nofg"},
-    },
-    {
         PrintName = "Tactical",
         Slot = "tac",
         Bone = "v_weapon.aug_Parent",
