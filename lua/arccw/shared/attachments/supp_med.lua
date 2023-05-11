@@ -1,4 +1,4 @@
-att.PrintName = "Tactical Suppressor"
+att.PrintName = "Тактический глушитель"
 att.Icon = Material("entities/acwatt_supp_med.png")
 att.Description = "Balanced sound suppressor. Moderately improves performance."
 att.Desc_Pros = {

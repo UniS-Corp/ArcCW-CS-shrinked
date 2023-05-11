@@ -1,4 +1,4 @@
-att.PrintName = "Angled Foregrip"
+att.PrintName = "Угловая рукоять"
 att.Icon = Material("entities/acwatt_foregrip_angled.png")
 att.Description = "Angled foregrip which enables superior agility, at the cost of recoil control due to a harder-to-grip surface."
 

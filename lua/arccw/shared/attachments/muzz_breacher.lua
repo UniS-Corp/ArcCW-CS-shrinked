@@ -1,4 +1,4 @@
-att.PrintName = "Breaching Device"
+att.PrintName = "Проникающее устройство"
 att.Icon = Material("entities/acwatt_muzz_breacher.png")
 att.Description = "Heavy muzzle device with spiked front that increases melee damage."
 att.Desc_Pros = {

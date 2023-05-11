@@ -1,4 +1,4 @@
-att.PrintName = "Muzzle Brake"
+att.PrintName = "Дульный тормоз"
 att.Icon = Material("entities/acwatt_muzz_brake.png")
 att.Description = "Muzzle device that aggressively fights recoil by sending exhaust gases upward to combat muzzle rise. Improves vertical recoil, but makes recoil less stable. Also increases weapon report."
 att.Desc_Pros = {

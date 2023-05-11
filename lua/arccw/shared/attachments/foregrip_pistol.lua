@@ -1,4 +1,4 @@
-att.PrintName = "Light Foregrip"
+att.PrintName = "Легкая рукоять"
 att.Icon = Material("entities/acwatt_foregrip_pistol.png")
 att.Description = "Lightweight pistol-style foregrip. Improves recoil marginally."
 

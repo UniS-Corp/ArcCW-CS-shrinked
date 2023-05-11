@@ -1,4 +1,4 @@
-att.PrintName = "Compensator"
+att.PrintName = "Компенсатор"
 att.Icon = Material("entities/acwatt_muzz_compensator.png")
 att.Description = "Muzzle device which redirects exhaust gases in order to improve the consistency of felt recoil."
 att.Desc_Pros = {

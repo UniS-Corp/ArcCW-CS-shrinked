@@ -1,4 +1,4 @@
-att.PrintName = "Duckbill Choke"
+att.PrintName = "Плоское дуло"
 att.Icon = Material("entities/acwatt_muzz_duckbill.png")
 att.Description = "Shotgun choke which produces a wide horizontal dispersion pattern. Potentially good for crowd control."
 att.Desc_Pros = {

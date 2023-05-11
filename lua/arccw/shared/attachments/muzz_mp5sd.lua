@@ -1,4 +1,5 @@
-att.PrintName = "Integral Schalldämpfer"
+-- att.PrintName = "Integral Schalldämpfer"
+att.PrintName = "Внутренний глушитель"
 att.Icon = Material("entities/acwatt_muzz_mp5sd.png")
 att.Description = "Integrated sound dampener which reduces bullets to subsonic velocity. Slows down fire rate due to quieter internal parts, but is otherwise a more egronomic Colossal Suppressor."
 att.Desc_Pros = {

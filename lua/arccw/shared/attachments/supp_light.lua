@@ -1,4 +1,4 @@
-att.PrintName = "Light Suppressor"
+att.PrintName = "Легкий глушитель"
 att.Icon = Material("entities/acwatt_supp_light.png")
 att.Description = "Lightweight weapon suppressor. Negatively impacts ballistic performance."
 att.Desc_Pros = {

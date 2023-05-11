@@ -1,4 +1,4 @@
-att.PrintName = "Muzzle Booster"
+att.PrintName = "Дульный ускоритель"
 att.Icon = Material("entities/acwatt_muzz_booster.png")
 att.Description = "Muzzle device which boosts exhaust gases in order to increase fire rate. Doing so increases felt recoil."
 att.Desc_Pros = {

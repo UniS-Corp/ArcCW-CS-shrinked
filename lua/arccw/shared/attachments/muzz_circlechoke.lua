@@ -1,4 +1,4 @@
-att.PrintName = "Concentric Choke"
+att.PrintName = "Круглое дуло"
 att.Icon = Material("entities/acwatt_muzz_circlechoke.png")
 att.Description = "Shotgun choke producing a circular pattern which is hollow in the middle."
 att.Desc_Pros = {

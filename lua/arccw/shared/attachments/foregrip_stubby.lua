@@ -1,4 +1,4 @@
-att.PrintName = "Stubby Foregrip"
+att.PrintName = "Короткая рукоять"
 att.Icon = Material("entities/acwatt_foregrip_stubby.png")
 att.Description = "Short foregrip which provides good stability while moving as well as helping stabilize recoil."
 

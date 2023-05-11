@@ -1,4 +1,4 @@
-att.PrintName = "Vertical Foregrip"
+att.PrintName = "Вертикальная рукоять"
 att.Icon = Material("entities/acwatt_foregrip_vertical.png")
 att.Description = "Attachable foregrip for long guns."
 

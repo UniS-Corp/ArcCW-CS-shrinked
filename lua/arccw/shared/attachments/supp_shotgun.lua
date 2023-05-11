@@ -1,4 +1,4 @@
-att.PrintName = "Colossal Suppressor"
+att.PrintName = "Глушитель для дробовиков"
 att.Icon = Material("entities/acwatt_supp_heavy.png")
 att.Description = "Sound suppressor with large bore intended for shotguns. Reduces weapon sound, at the cost of heavy bulk."
 att.Desc_Pros = {

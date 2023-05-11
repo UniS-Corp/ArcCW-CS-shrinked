@@ -1,4 +1,4 @@
-att.PrintName = "Heavy Barrel"
+att.PrintName = "Тяжелый ствол"
 att.Icon = Material("entities/acwatt_muzz_hbar.png")
 att.Description = "Reinforced barrel with superior performance characteristics. Improves accuracy and recoil control at the cost of weapon weight."
 att.Desc_Pros = {

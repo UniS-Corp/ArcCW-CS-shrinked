@@ -1,4 +1,4 @@
-att.PrintName = "Cross Choke"
+att.PrintName = "Крестообразное дуло"
 att.Icon = Material("entities/acwatt_muzz_crosschoke.png")
 att.Description = "Shotgun choke producing a cross-shaped pattern."
 att.Desc_Pros = {

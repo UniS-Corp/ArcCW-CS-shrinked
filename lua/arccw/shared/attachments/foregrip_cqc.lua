@@ -1,4 +1,4 @@
-att.PrintName = "CQC Foregrip"
+att.PrintName = "CQC рукоять"
 att.Icon = Material("entities/acwatt_foregrip_cqc.png")
 att.Description = "Foregrip allowing for superior strafe speed and hip fire accuracy at the cost of recoil control and sight speed."
 

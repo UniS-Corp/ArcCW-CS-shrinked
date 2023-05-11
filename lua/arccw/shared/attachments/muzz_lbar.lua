@@ -1,4 +1,4 @@
-att.PrintName = "Light Barrel"
+att.PrintName = "Легкий ствол"
 att.Icon = Material("entities/acwatt_muzz_lbar.png")
 att.Description = "Lightweight barrel with reduced weight with reduced precision compared to stock barrels."
 att.Desc_Pros = {

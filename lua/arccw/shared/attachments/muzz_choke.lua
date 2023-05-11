@@ -1,4 +1,4 @@
-att.PrintName = "Tight Choke"
+att.PrintName = "Узкое дуло"
 att.Icon = Material("entities/acwatt_muzz_choke.png")
 att.Description = "Shotgun choke which reduces pellet spread, at the cost of directly worsening clump dispersion while hip firing. Also increases felt recoil."
 att.Desc_Pros = {

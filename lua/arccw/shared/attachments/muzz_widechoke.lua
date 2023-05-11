@@ -1,4 +1,4 @@
-att.PrintName = "Wide Choke"
+att.PrintName = "Широкое дуло"
 att.Icon = Material("entities/acwatt_muzz_widechoke.png")
 att.Description = "Shotgun choke which increases pellet spread, but greatly reduces hip fire dispersion and felt recoil."
 att.Desc_Pros = {

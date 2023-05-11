@@ -1,4 +1,4 @@
-att.PrintName = "Colossal Suppressor"
+att.PrintName = "Огромный глушитель"
 att.Icon = Material("entities/acwatt_supp_heavy.png")
 att.Description = "Large sound suppressor with ballistic-enhancing qualities. Extremely cumbersome."
 att.Desc_Pros = {
