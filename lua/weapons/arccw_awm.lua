@@ -141,7 +141,7 @@ SWEP.ExtraSightDist = 5
 
 SWEP.Attachments = {
     {
-        PrintName = "Optic", -- print name
+        PrintName = "Оптика", -- print name
         DefaultAttName = "Iron Sights",
         Slot = {"optic", "optic_sniper", "optic_lp"}, -- what kind of attachments can fit here, can be string or table
         Bone = "v_weapon.awm_Parent", -- relevant bone any attachments will be mostly referring to
@@ -156,21 +156,7 @@ SWEP.Attachments = {
         CorrectiveAng = Angle(0, 0, 0)
     },
     {
-        PrintName = "Backup Optic", -- print name
-        Slot = "backup", -- what kind of attachments can fit here, can be string or table
-        Bone = "v_weapon.awm_Parent", -- relevant bone any attachments will be mostly referring to
-        Offset = {
-            vpos = Vector(0.035, -4, -10),
-            vang = Angle(-90, 0, -90),
-            wpos = Vector(8, 0.899, -6.401),
-            wang = Angle(-10.52, 0, 180)
-        },
-        CorrectivePos = Vector(0, 0, 0),
-        CorrectiveAng = Angle(0, 0, 0),
-        KeepBaseIrons = true,
-    },
-    {
-        PrintName = "Muzzle",
+        PrintName = "Дульное устройство",
         DefaultAttName = "Standard Muzzle",
         Slot = "muzzle",
         Bone = "v_weapon.awm_Parent",
@@ -183,22 +169,7 @@ SWEP.Attachments = {
         InstalledEles = {"nobrake"},
     },
     {
-        PrintName = "Underbarrel",
-        Slot = {"foregrip", "bipod"},
-        Bone = "v_weapon.awm_Parent",
-        Offset = {
-            vang = Angle(-91, 0, -90),
-            wang = Angle(-11, 0, 180)
-        },
-        SlideAmount = {
-            vmin = Vector(-0.3, -2.5, -10.5),
-            vmax = Vector(-0.3, -2.5, -18.5),
-            wmin = Vector(20, 0.899, -5.401),
-            wmax = Vector(20, 0.899, -5.401),
-        }
-    },
-    {
-        PrintName = "Tactical",
+        PrintName = "Тактические",
         Slot = "tac",
         Bone = "v_weapon.awm_Parent",
         Offset = {
@@ -206,36 +177,6 @@ SWEP.Attachments = {
             vang = Angle(-90, -0.45, 180),
             wpos = Vector(19.625, 0.053, -6.298),
             wang = Angle(-8.829, -0.556, 90)
-        },
-    },
-    {
-        PrintName = "Grip",
-        Slot = "grip",
-        DefaultAttName = "Standard Grip"
-    },
-    {
-        PrintName = "Stock",
-        Slot = "stock",
-        DefaultAttName = "Standard Stock"
-    },
-    {
-        PrintName = "Ammo Type",
-        Slot = "ammo_bullet"
-    },
-    {
-        PrintName = "Perk",
-        Slot = "perk"
-    },
-    {
-        PrintName = "Charm",
-        Slot = "charm",
-        FreeSlot = true,
-        Bone = "v_weapon.awm_Parent", -- relevant bone any attachments will be mostly referring to
-        Offset = {
-            vpos = Vector(-0.75, -3, -5), -- offset that the attachment will be relative to the bone
-            vang = Angle(-90, 0, -90),
-            wpos = Vector(8, 1.75, -3.5),
-            wang = Angle(-10.393, 0, 180)
         },
     },
 }
