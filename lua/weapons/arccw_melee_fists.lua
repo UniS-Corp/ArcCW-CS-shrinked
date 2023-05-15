@@ -3,9 +3,9 @@ SWEP.Spawnable = true -- this obviously has to be set to true
 SWEP.Category = "ArcCW - Other" -- edit this if you like
 SWEP.AdminOnly = false
 
-SWEP.PrintName = "Fists"
+SWEP.PrintName = "Кулаки"
 SWEP.Trivia_Class = "Melee Weapon"
-SWEP.Trivia_Desc = "Listen up son, 'cause I'm only gonna tell you this one time. A boy thinks his guns are all he needs to get out of a scrap. And maybe that's true. But you won't always have your gun. Guns get lost. Guns get stolen. Guns run out of ammo, they fail, they break. But if you can hold your own with just your two bare fists, boy, there ain't nothing the world can do to stop you."
+SWEP.Trivia_Desc = ""
 SWEP.Trivia_Manufacturer = "Your Mother"
 SWEP.Trivia_Calibre = "N/A"
 SWEP.Trivia_Mechanism = "Applied Pugilism"

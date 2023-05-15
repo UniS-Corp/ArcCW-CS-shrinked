@@ -3,9 +3,9 @@ SWEP.Spawnable = true -- this obviously has to be set to true
 SWEP.Category = "ArcCW - Other" -- edit this if you like
 SWEP.AdminOnly = false
 
-SWEP.PrintName = "Knife"
+SWEP.PrintName = "Нож"
 SWEP.Trivia_Class = "Melee Weapon"
-SWEP.Trivia_Desc = "Sharp metal blade for stabbing and slashing."
+SWEP.Trivia_Desc = ""
 SWEP.Trivia_Manufacturer = "Cold Steel"
 SWEP.Trivia_Calibre = "N/A"
 SWEP.Trivia_Mechanism = "Sharp Edge"
